@@ -65,11 +65,12 @@ Squid3 Proxy With PAM Authentication
 
 [7]  BadVPN-udpgw Installer
 
+[8]  SSLH Installer
 
-[8]  Server Info & Speed test
+[9]  Server Info & Speed test
 
 
-[9]  Nginx MariaDB PHP5 Vanilla Wordpress Webmin
+[0]  Nginx MariaDB PHP5 Vanilla Wordpress Webmin
 
 Lowend Nginx - MariaDB - PHP - Vanilla - Wordpress
 
