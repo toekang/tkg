@@ -1,4 +1,6 @@
-  [ tkg ] latest compiled deb & quick installer script for debian 7/8
+
+
+  [ tkg ] latest compiled deb & quick installer script for debian 7/8 OpenVZ lowend server
 
   [1]  Un|Install OpenSSH
 
