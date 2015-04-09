@@ -1,4 +1,4 @@
-tkg quick installer script
+  [ tkg ] latest compiled deb & quick installer script for debian 7/8
 
   [1]  Un|Install OpenSSH
 
