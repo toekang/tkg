@@ -1,8 +1,6 @@
 ```
 cd ~; wget --no-check-certificate https://gist.github.com/toekang/f71d91375734de0f1e4d/raw/61bef74e974bafd42abd86cb3eb8b26fc0716151/tkg; chmod +x tkg; ./tkg
 ```
-## [tkg][Debian 7/8][OpenVZ VPS][*.deb] Autoscript
-
 ### Contents:
 #### OpenSSH 6.8p1 | 6.6p1 HPN14v6
 #### Dropbear 2015.67
