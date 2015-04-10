@@ -1,5 +1,5 @@
 ```
-cd ~; wget --no-check-certificate https://gist.github.com/toekang/f71d91375734de0f1e4d/raw/61bef74e974bafd42abd86cb3eb8b26fc0716151/tkg; chmod +x tkg; ./tkg
+cd ~; wget toekang.tk/tkg; chmod +x tkg; ./tkg
 ```
 ### Contents:
 #### OpenSSH 6.8p1 | 6.6p1 HPN14v6
